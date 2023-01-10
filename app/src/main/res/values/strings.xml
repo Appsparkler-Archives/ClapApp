@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClapApp</string>
+    <string name="clap_image">clap image</string>
+    <string name="play_button">play-button</string>
+    <string name="pause_button">pause_button</string>
+    <string name="textView_Played">TextView</string>
+    <string name="stop_button">stop_button</string>
+    <string name="textViewDue">TextView</string>
+</resources>
